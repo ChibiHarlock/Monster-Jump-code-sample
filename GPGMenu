@@ -10,7 +10,7 @@ public class GPGMenu : MonoBehaviour {
 	
 	/**Google Play Games Variable Declarations**/
 	public GameObject btn_LogIn, btn_LogOut, btn_LeaderBoard, 
-  btn_PostScore, btn_AchievementBoard;       // Gameobjects used to access features on Google Play Games
+  			  btn_PostScore, btn_AchievementBoard;       // Gameobjects used to access features on Google Play Games
 	private string lb_BestScore    = "Leaderboard ID";           // String that identifies a GPG leaderboard for the game
 	private string achv_Welcome    = "Achievement ID";           // Achievement for signing in the first time on GPG
 	private string achv_1          = "Achievement ID";           // Acheivement for reaching a game score of 1  
