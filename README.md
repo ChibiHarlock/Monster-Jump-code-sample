@@ -1,4 +1,4 @@
-# hello-world
+# GPG Menu for Monster Jump
 Monster Jump code sample that is cool to me
 
 Hi everyone,
